@@ -1,10 +1,10 @@
 let fs = require('fs') 
 let chalk = require('chalk')
 
-global.owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+global.owner = [VnzyBott]
+  ['6285770450885'],
+  ['6285770450885'],
+  ['6285770450885', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
